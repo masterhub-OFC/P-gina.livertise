@@ -1,1 +1,57 @@
-
+<!DOCTYPE html><html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Master Store</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f9;
+      color: #333;
+      text-align: center;
+    }
+    header {
+      background: #222;
+      color: #fff;
+      padding: 20px;
+      font-size: 24px;
+      font-weight: bold;
+    }
+    .welcome {
+      margin: 60px 20px;
+      font-size: 22px;
+      line-height: 1.8;
+    }
+    .discord {
+      margin-top: 40px;
+      font-size: 20px;
+    }
+    .discord a {
+      color: #7289da;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .discord a:hover {
+      text-decoration: underline;
+    }
+    .contact {
+      margin-top: 30px;
+      font-size: 18px;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <header>Master Store</header>  <section class="welcome">
+    <p>✨ Bem-vindo(a) à <strong>Master Store</strong>! ✨<br>
+    Aqui você encontra <strong>produtos digitais exclusivos</strong> para melhorar sua experiência.<br>
+    Nosso Discord é utilizado para suporte, novidades e gerenciamento desses produtos.<br>
+    Caso a página esteja desatualizada ou você precise de ajuda, entre em contato: <strong>+55 59 99925-1517</strong> 💎</p>
+  </section>  <section class="discord">
+    <p>🎉 Entre no nosso servidor do Discord para suporte e informações: 
+    <a href="https://discord.gg/2ADrbcAa" target="_blank">Master Store Discord</a></p>
+  </section>
+</body>
+</html>
